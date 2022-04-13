@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Ikatlah Ilmu Dengan Menuliskannya](README.md)
+* [Ikatlah Ilmu Dengan Tulisan](README.md)

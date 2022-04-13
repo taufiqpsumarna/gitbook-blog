@@ -5,9 +5,9 @@ coverY: 0
 layout: landing
 ---
 
-# Ikatlah Ilmu Dengan Menuliskannya
+# Ikatlah Ilmu Dengan Tulisan
 
-### Imam Syafi’i _rahimahullah_ pernah bertutur
+### Imam Syafi’i rahimahullah pernah berkata:
 
 > الْعِلْمُ صَيْدٌ وَالْكِتَابَةُ قَيْدُهُ \* قَيِّدْ صُيُوْدَكَ بِالْحِبَالِ الْوَاثِقَهْ فَمِنَ الْحَمَاقَةِ أَنْ تَصِيْدَ غَزَالَةً وَتَتْرُكَهَا بَيْنَ الْخَلاَئِقِ طَالِقَهْ
 
